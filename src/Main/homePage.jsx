@@ -13,7 +13,7 @@ const homePage = ()  => {
     );
   };
 const Wrap = styled.main`
-`;
+`; 
 const TitleWrap =styled.section`
     display: flex;
     justify-content: center;
